@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>NeedIt_new</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>NeedIt_new</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">be798f46e00332003399186128118fcb</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-14 06:12:00</sys_created_on>
+        <sys_id>5415dac7db452b407d40f2d90c961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt_new</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_wizard_answer_5415dac7db452b407d40f2d90c961928</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-14 06:12:00</sys_updated_on>
+        <table/>
+        <target_url>x_58872_needit_need.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
